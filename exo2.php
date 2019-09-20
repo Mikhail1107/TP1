@@ -9,6 +9,6 @@
 
  	echo "La longueur de l'hypothénuse est : ";
  	echo $longueur_bc;
- 	echo 'test';
+ 	echo 'test1';
 
 ?>
